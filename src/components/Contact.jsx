@@ -7,11 +7,11 @@ function Contact() {
         <p className="lead">Feel free to reach out anytime!</p>
 
         <div className="mt-4">
-          <p><strong>Email:</strong> youremail@example.com</p>
-          <p><strong>Phone:</strong> +91 98765 43210</p>
+          <p><strong>Email:</strong> sivapriyastudies@gmail.com</p>
+          <p><strong>Phone:</strong> +91 7339589190</p>
 
           <a
-            href="mailto:youremail@example.com"
+            href="mailto:sivapriyastudies@gmail.com"
             className="btn btn-primary mt-3"
           >
             Send Email
